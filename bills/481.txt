@@ -1,0 +1,20 @@
+		*** Welcome Customer ***
+Bill No.:481
+Customer Name:Akansha Tiwari W/O Akash Kumar
+Customer Phone No. :8445242071
+============================================================Product			Quantity			Price
+============================================================
+Bath Soap			12			240Rs
+face cream			23			1150Rs
+Face wash			56			5600Rs
+Sugar    			5			225Rs
+Wheat    			12			1200Rs
+Pepsi    			3			120Rs
+Coca Cola    			1			100Rs
+============================================================
+Cosmetic Tax 		838.8Rs
+Grocery Tax 		712.5Rs
+Drinks Tax 		198.0Rs
+
+Total Bill 				10384.3
+===========================================================

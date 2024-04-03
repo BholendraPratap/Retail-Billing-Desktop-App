@@ -1,0 +1,18 @@
+		*** Welcome Customer ***
+Bill No.:929
+Customer Name:akki
+Customer Phone No. :3435352225
+============================================================Product			Quantity			Price
+============================================================
+Hair Gel			5			400Rs
+face cream			67			3350Rs
+Wheat    			9			900Rs
+Sprite    			9			270Rs
+Frooti    			9			90Rs
+============================================================
+Cosmetic Tax 		450.0Rs
+Grocery Tax 		450.0Rs
+Drinks Tax 		324.0Rs
+
+Total Bill 				6234.0
+===========================================================

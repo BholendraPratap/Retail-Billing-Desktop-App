@@ -1,0 +1,29 @@
+		*** Welcome Customer ***
+Bill No.:743
+Customer Name:Swati Singh
+Customer Phone No. :6345768543
+============================================================Product			Quantity			Price
+============================================================
+Bath Soap			1			20Rs
+Hair Gel			1			80Rs
+Hair Spray			1			150Rs
+face cream			1			50Rs
+Face wash			1			100Rs
+Body Lotion			1			200Rs
+Rice    			2			60Rs
+Oil    			12			2400Rs
+Sugar    			1			45Rs
+Tea    			1			120Rs
+Maaza    			1			50Rs
+Sprite    			1			30Rs
+Pepsi    			1			40Rs
+Dew    			1			45Rs
+Frooti    			1			10Rs
+Coca Cola    			1			100Rs
+============================================================
+Cosmetic Tax 		72.0Rs
+Grocery Tax 		1312.5Rs
+Drinks Tax 		247.5Rs
+
+Total Bill 				5132.0
+===========================================================

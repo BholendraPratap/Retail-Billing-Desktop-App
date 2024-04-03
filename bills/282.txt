@@ -1,0 +1,18 @@
+		*** Welcome Customer ***
+Bill No.:282
+Customer Name:akash
+Customer Phone No. :9956925746
+============================================================Product			Quantity			Price
+============================================================
+face cream			23			1150Rs
+Rice    			1			30Rs
+Wheat    			1			100Rs
+Maaza    			23			1150Rs
+Dew    			21			945Rs
+============================================================
+Cosmetic Tax 		138.0Rs
+Grocery Tax 		65.0Rs
+Drinks Tax 		1885.5Rs
+
+Total Bill 				5463.5
+===========================================================

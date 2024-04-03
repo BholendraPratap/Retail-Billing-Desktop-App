@@ -1,0 +1,31 @@
+		*** Welcome Customer ***
+Bill No.:194
+Customer Name:Akansha Akash
+Customer Phone No. :9956925746
+============================================================Product			Quantity			Price
+============================================================
+Bath Soap			23			460Rs
+Hair Gel			12			960Rs
+Hair Spray			1			150Rs
+face cream			1			50Rs
+Face wash			23			2300Rs
+Body Lotion			12			2400Rs
+Rice    			1			30Rs
+Daal    			1			120Rs
+Oil    			1			200Rs
+Sugar    			1			45Rs
+Wheat    			1			100Rs
+Tea    			1			120Rs
+Maaza    			12			600Rs
+Sprite    			1			30Rs
+Pepsi    			1			40Rs
+Dew    			1			45Rs
+Frooti    			1			10Rs
+Coca Cola    			1			100Rs
+============================================================
+Cosmetic Tax 		758.4Rs
+Grocery Tax 		307.5Rs
+Drinks Tax 		742.5Rs
+
+Total Bill 				9568.4
+===========================================================

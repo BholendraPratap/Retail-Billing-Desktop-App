@@ -1,0 +1,17 @@
+		*** Welcome Customer ***
+Bill No.:644
+Customer Name:tiuba
+Customer Phone No. :8768768758
+============================================================Product			Quantity			Price
+============================================================
+Face wash			34			3400Rs
+Body Lotion			34			6800Rs
+Daal    			4			480Rs
+Tea    			7889			946680Rs
+============================================================
+Cosmetic Tax 		1224.0Rs
+Grocery Tax 		473580.0Rs
+Drinks Tax 		0.0Rs
+
+Total Bill 				1432164.0
+===========================================================

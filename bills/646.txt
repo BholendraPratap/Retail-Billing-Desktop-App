@@ -1,0 +1,22 @@
+		*** Welcome Customer ***
+Bill No.:646
+Customer Name:Shubhi Gupta
+Customer Phone No. :9567843213
+============================================================Product			Quantity			Price
+============================================================
+Bath Soap			1			20Rs
+Hair Spray			1			150Rs
+face cream			1			50Rs
+Face wash			1			100Rs
+Tea    			1			120Rs
+Maaza    			12			600Rs
+Dew    			1			45Rs
+Frooti    			1			10Rs
+Coca Cola    			1			100Rs
+============================================================
+Cosmetic Tax 		38.4Rs
+Grocery Tax 		60.0Rs
+Drinks Tax 		679.5Rs
+
+Total Bill 				1972.9
+===========================================================
